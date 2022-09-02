@@ -4,18 +4,35 @@
 }
 
 .card {
-    width: 350px;
+    width: 328px;
     height: 500px;
 }
 
 .card .card-img {
-    width: 348px;
+    width: 327px;
     height: 250px;
     background-color: rgb(235, 240, 238);
 }
 
 .card1 {
-    width: 327px;
+    width: 328px;
     height: 352px;
     background-color: rgb(235, 240, 238);;
+}
+
+.text {
+    width: 50%;
+}
+
+.infoform {
+    width: 80%;
+    margin: auto;
+}
+
+.infoform input {
+    width: 90%;
+}
+
+.infoform textarea {
+    width:90%
 }
