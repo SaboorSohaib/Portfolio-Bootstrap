@@ -1,38 +1,38 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .card {
-    width: 328px;
-    height: 500px;
+  width: 328px;
+  height: 500px;
 }
 
 .card .card-img {
-    width: 327px;
-    height: 250px;
-    background-color: rgb(235, 240, 238);
+  width: 327px;
+  height: 250px;
+  background-color: rgb(235, 240, 238);
 }
 
 .card1 {
-    width: 328px;
-    height: 352px;
-    background-color: rgb(235, 240, 238);;
+  width: 328px;
+  height: 352px;
+  background-color: rgb(235, 240, 238);
 }
 
 .text {
-    width: 50%;
+  width: 50%;
 }
 
 .infoform {
-    width: 80%;
-    margin: auto;
+  width: 80%;
+  margin: auto;
 }
 
 .infoform input {
-    width: 90%;
+  width: 90%;
 }
 
 .infoform textarea {
-    width:90%
+  width: 90%;
 }
