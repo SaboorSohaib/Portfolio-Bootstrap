@@ -3,6 +3,32 @@
   padding: 0;
 }
 
+ul {
+  list-style: none;
+}
+
+header {
+  background-image: url(./assest/Header-llustration-desktop@2x.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.p1 {
+  width: 40%;
+  margin-left: 350px;
+  margin-top: 20px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.get-btn {
+  margin-left: 500px;
+}
+
 .card {
   width: 328px;
   height: 500px;
@@ -20,8 +46,34 @@
   background-color: rgb(235, 240, 238);
 }
 
-.text {
+.card-body a {
+  margin-left: 90px;
+}
+
+.about-btn {
+  display: flex;
+  justify-content: center;
+}
+
+.card-img1 {
+  margin-left: 100px;
+}
+
+.bottom-btn {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.text-contact {
   width: 50%;
+  margin-top: 100px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
 }
 
 .infoform {
